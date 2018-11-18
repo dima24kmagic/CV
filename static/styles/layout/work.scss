@@ -1,0 +1,37 @@
+.experience {
+  .work {
+    &__description {
+      display: flex;
+      justify-content: space-between;
+      padding-left: 1.5rem;
+      position: relative;
+      &:not(:last-child) {
+        margin-bottom: 1rem;
+      }
+      &::before {
+        content: '';
+        position: absolute;
+        top: 1rem;
+        left: 0;
+        height: 5px;
+        width: 5px;
+        background: #000;
+        //transform: translateY(-50%);
+        border-radius: 100%;
+      }
+      &__position {
+        max-width: 20rem;
+        font-weight: bold;
+        font-size: 2rem;
+      }
+    }
+    &__abilities {
+      padding-left: 1.5rem;
+      div {
+        &:not(:last-child) {
+          margin-bottom: .5rem;
+        }
+      }
+    }
+  }
+}
