@@ -23,6 +23,7 @@ body {
     display: flex;
     justify-content: center;
     font-size: 5rem;
+    text-align: center;
     color: #242424;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
     margin-bottom: .5rem; }
@@ -150,8 +151,9 @@ body {
 .block-name {
   font-size: 3rem;
   font-weight: bold;
-  color: #001e63;
-  margin-bottom: 1rem; }
+  color: #001726;
+  margin-bottom: 1rem;
+  font-family: 'Roboto', sans-serif; }
 
 .bold {
   font-weight: bold; }
