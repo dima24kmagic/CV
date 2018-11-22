@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5899e00-d648-428c-8a4c-84db0195cfb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.sass-cache/6b1c2987406b59900b9bd52c3bef3b9f7833d684/utils.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/6b1c2987406b59900b9bd52c3bef3b9f7833d684/utils.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/styles/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/styles/utils/utils.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/utils/utils.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +61,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="20" />
-          <entry key="html" value="2524" />
+          <entry key="html" value="2529" />
           <entry key="json" value="86" />
           <entry key="scss" value="1775" />
         </counts>
@@ -73,7 +69,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="20" />
-          <entry key="HTML" value="2524" />
+          <entry key="HTML" value="2529" />
           <entry key="JSON" value="86" />
           <entry key="SCSS" value="1775" />
         </counts>
@@ -96,8 +92,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="441">
-                  <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+                <state relative-caret-position="304">
+                  <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
                   <folding>
                     <element signature="e#2916#2922#0" expanded="true" />
                   </folding>
@@ -334,12 +330,12 @@
       <workItem from="1542196465100" duration="10612000" />
       <workItem from="1542451837315" duration="3835000" />
       <workItem from="1542554574270" duration="1904000" />
-      <workItem from="1542917196157" duration="2789000" />
+      <workItem from="1542917196157" duration="3467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19999000" />
+    <option name="totallyTimeSpent" value="20677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -459,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+        <state relative-caret-position="304">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="e#2916#2922#0" expanded="true" />
           </folding>
