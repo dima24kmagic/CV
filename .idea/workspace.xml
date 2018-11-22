@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5899e00-d648-428c-8a4c-84db0195cfb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/26cbdd33ee539aef2143bb8a78c264b02ac6378c/base.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/26cbdd33ee539aef2143bb8a78c264b02ac6378c/base.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.sass-cache/6b1c2987406b59900b9bd52c3bef3b9f7833d684/utils.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/6b1c2987406b59900b9bd52c3bef3b9f7833d684/utils.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/d63cec89dea4649d615ce9e035067bdbc308d17f/intro.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/d63cec89dea4649d615ce9e035067bdbc308d17f/intro.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/styles/base/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/base/base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/styles/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/styles/layout/intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/layout/intro.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/styles/utils/utils.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/utils/utils.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,17 +65,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="20" />
-          <entry key="html" value="2520" />
+          <entry key="html" value="2524" />
           <entry key="json" value="86" />
-          <entry key="scss" value="1767" />
+          <entry key="scss" value="1775" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="20" />
-          <entry key="HTML" value="2520" />
+          <entry key="HTML" value="2524" />
           <entry key="JSON" value="86" />
-          <entry key="SCSS" value="1767" />
+          <entry key="SCSS" value="1775" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -101,8 +96,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+                <state relative-caret-position="441">
+                  <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
                   <folding>
                     <element signature="e#2916#2922#0" expanded="true" />
                   </folding>
@@ -144,8 +139,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/static/styles/utils/utils.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="328">
-                  <caret line="87" selection-start-line="87" selection-end-line="87" />
+                <state relative-caret-position="384">
+                  <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -339,12 +334,12 @@
       <workItem from="1542196465100" duration="10612000" />
       <workItem from="1542451837315" duration="3835000" />
       <workItem from="1542554574270" duration="1904000" />
-      <workItem from="1542917196157" duration="1992000" />
+      <workItem from="1542917196157" duration="2789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19202000" />
+    <option name="totallyTimeSpent" value="19999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -360,7 +355,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3373102" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3373102" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,7 +363,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="RNConsole" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23535791" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23535791" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,15 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/styles/utils/utils.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="384">
+          <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+        <state relative-caret-position="441">
+          <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
           <folding>
             <element signature="e#2916#2922#0" expanded="true" />
           </folding>
